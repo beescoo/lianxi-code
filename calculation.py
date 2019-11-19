@@ -1,5 +1,6 @@
 #!usr/bin/env python3
 
+import sys
 a = 0
 while a <= 100:
 	a = a + 1
